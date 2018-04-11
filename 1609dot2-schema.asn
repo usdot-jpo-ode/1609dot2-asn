@@ -1,4 +1,7 @@
 --<OSS.PDU IEEE1609dot2.Ieee1609Dot2Data>--
+--<OSS.PDU IEEE1609dot2.Certificate>--
+--<OSS.PDU IEEE1609dot2.ToBeSignedCertificate>--
+--<OSS.PDU IEEE1609dot2.ToBeSignedData>--
 
 IEEE1609dot2 {iso(1) identified-organization(3) ieee(111) 
 standards-association-numbered-series-standards(2) wave-stds(1609)  

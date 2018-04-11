@@ -4,6 +4,9 @@ dot2(2) base(1) base-types(2)}
 
 --<OSS.PDU IEEE1609dot2BaseTypes.Time32>--
 --<OSS.PDU IEEE1609dot2BaseTypes.Time64>--
+--<OSS.PDU IEEE1609dot2BaseTypes.EcdsaP256Signature>--
+--<OSS.PDU IEEE1609dot2BaseTypes.Signature>--
+--<OSS.PDU IEEE1609dot2BaseTypes.EccP256CurvePoint>--
 
 
 -- 
